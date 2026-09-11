@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm jcyang 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+jcyang;Full+Stack+%26+ML+Developer;Bioinformatics+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 
 **Developer · Bioinformatics · Machine Learning · Web Development**
 
