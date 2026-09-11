@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Douglas
 
-<!--
-**jcyangcn/jcyangcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web & bioinformatics developer building projects with PHP, Python, and machine learning.
 
-Here are some ideas to get you started:
+## Featured Projects
+- [college-predictor-system](https://github.com/jcyangcn/college-predictor-system) — College eligibility predictor
+- [Bioinformatics-Guide](https://github.com/jcyangcn/Bioinformatics-Guide) — Bioinformatics resources
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+`PHP` `MySQL` `Python` `JavaScript` `Machine Learning`
+
+## Contact
+- GitHub: [jcyangcn](https://github.com/jcyangcn)
+- Email: bataa4188@gmail.com
